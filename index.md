@@ -33,5 +33,5 @@ Tämä on ihan vain lista F1-kuljettajista:
 
 ## Huomio
 
->[!TIP]
->Voit käyttää myös emojeita (vai emojeja :thinking:)
+> [!TIP]
+> Voit käyttää myös emojeita (vai emojeja :thinking:)
