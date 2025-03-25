@@ -34,4 +34,5 @@ Tämä on ihan vain lista F1-kuljettajista:
 ## Huomio
 
 > 💡 Ammattilaisjuomaraha:
-> Voit käyttää myös emojeita (vai emojeja 🤔)
+> 
+> Voit käyttää myös emojeita (vai emojeja 🤔).
